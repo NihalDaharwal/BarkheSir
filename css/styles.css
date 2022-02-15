@@ -1,0 +1,19 @@
+#section1 {
+  background-color: rgb(245, 170, 170);
+  height: 25rem;
+}
+
+#members {
+  background-color: rgb(228, 90, 90);
+  height: 25rem;
+}
+
+#about {
+  background-color: rgb(235, 163, 163);
+  height: 25rem;
+}
+
+#contact {
+  background-color: rgb(204, 75, 75);
+  height: 25rem;
+}
